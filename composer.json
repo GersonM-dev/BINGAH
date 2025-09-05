@@ -9,6 +9,7 @@
         "php": "^8.2",
         "filament/filament": "^4.0",
         "guzzlehttp/guzzle": "^7.9",
+        "kreait/laravel-firebase": "^6.1",
         "laravel/framework": "^12.0",
         "laravel/tinker": "^2.10.1",
         "swisnl/filament-backgrounds": "^2.0"
